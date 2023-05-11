@@ -20,7 +20,7 @@
 <div align="center">
   <h1>
     <img src="https://github.com/fcopersan/fcopersan/blob/main/fpersan_github_line-chart%402023.gif" width="30px" alt="line-chart-animation" />
-    ¡Hola! Soy Fran, aunque la mayoría me conocen como Fpersan
+    ¡Hola a todos! Soy Fran, aunque me conocen como Fpersan
     <img src="https://github.com/fcopersan/fcopersan/blob/main/fpersan_github_line-chart%402023.gif" width="30px" alt="line-chart-animation" />
   </h1>
 </div>
@@ -67,13 +67,11 @@
 <div align="center">
   <h2>
   <img src="https://media.giphy.com/media/0CcFF62cubgsjqc43Z/giphy.gif" width="30"/>
-  ¡Conoce más sobre mi aquí!
+  ¡Conoce más sobre mí, aquí!
   <img src="https://media.giphy.com/media/0CcFF62cubgsjqc43Z/giphy.gif" width="30"/>
   </h2
-</div>
-    
-<img src="https://media.giphy.com/media/iJzVmJOgK1RCbC9aRh/giphy.gif" width="30">
-    
+</div>    
+<img src="https://media.giphy.com/media/iJzVmJOgK1RCbC9aRh/giphy.gif" width="30">    
 <div align="center">
   <a href="https://www.fpersan.com" target="_blank">
     <img src="https://img.shields.io/badge/-www.fpersan.com-12F37F?style=for-the-badge&logo=appveyor&logoColor=white" alt="fpersan">
